@@ -151,8 +151,8 @@ NARESH.R
 
 
 ## OUTPUT:
+![image](https://github.com/feryjfgkuyfgewjfgew/simplewebserver/assets/150319377/917f258c-6ade-4a39-92a8-38d1d1773eaf)
 
-![Screenshot 2024-03-27 090641](https://github.com/feryjfgkuyfgewjfgew/simplewebserver/assets/150319377/cccc2d47-d964-4a8a-8c5d-d2fd7788ef42)
 
 
 
