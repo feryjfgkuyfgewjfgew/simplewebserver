@@ -44,7 +44,7 @@ NARESH.R
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 </head>
 <body>
-  <div class="row border border-3" >
+  <div class="row border border-3" style="background-color: aqua;" >
     <div class="col-5" >
       <i class="bi bi-whatsapp icon hover"></i>
       <i class="bi bi-facebook icon hover"></i>
@@ -59,7 +59,7 @@ NARESH.R
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
-          <div class="collapse navbar-collapse" id="navbarSupportedContent" >
+          <div class="collapse navbar-collapse" id="navbarSupportedContent" style="background-color: aquamarine;">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item ">
                 <a class="nav-link active" aria-current="page " href="#">WEB PROJECT</a>
@@ -91,21 +91,6 @@ NARESH.R
     </div>
   </div>
   <div style="display: flex;">
-        <div style="width: 20%;">
-            <div class="card" style="width: 18rem;">
-                <a href="https://www.saveetha.ac.in"><img src="SEC L.jpg" class="card-img-top" alt="..."></a>
-                <div class="card-body">
-                  <h5 class="card-title">SAVEETHA ENGINEERING COLLEGE</h5>
-                  <p class="card-text">
-                    Approved by the All India Council for Technical Education (AICTE), a statutory body of the Government of India, and also by the Government of Tamil Nadu</p>
-                </div>
-                <ul class="list-group list-group-flush">
-                  <li class="list-group-item"><a href="https://saveetha.ac.in/index.php/admissions/courses-offered">COURSES</a></li>
-                  <li class="list-group-item"><a href="https://www.saveetha.ac.in/index.php/life-at-sec/student-life">LIFE AT SEC</a></li>
-                  <li class="list-group-item"><a href="https://www.saveetha.ac.in/index.php/about/about-sec">ABOUT</a></li>
-                  <li class="list-group-item"><a href="https://www.saveetha.ac.in/index.php/placements/overview">PLACEMENTS</a></li>
-                </ul>
-              </div></div>
         <div style="width: 80%;">
             <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-indicators">
@@ -142,6 +127,22 @@ NARESH.R
                 </button>
               </div>
         </div>
+        <div style="width: 20%;">
+          <div class="card" style="width: 18rem;">
+              <a href="https://www.saveetha.ac.in"><img src="na lo - Copy.jpg" class="card-img-top" alt="..."></a>
+              <div class="card-body">
+                <h5 class="card-title">NARESH ENGINEERING COLLEGE INDUSTRI</h5>
+                <p class="card-text">
+                  Approved by the All India Council for Technical Education (AICTE), a statutory body of the Government of India, and also by the Government of Tamil Nadu</p>
+              </div>
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item"><a href="https://saveetha.ac.in/index.php/admissions/courses-offered">COURSES</a></li>
+                <li class="list-group-item"><a href="https://www.saveetha.ac.in/index.php/life-at-sec/student-life">LIFE AT SEC</a></li>
+                <li class="list-group-item"><a href="https://www.saveetha.ac.in/index.php/about/about-sec">ABOUT</a></li>
+                <li class="list-group-item"><a href="https://www.saveetha.ac.in/index.php/placements/overview">PLACEMENTS</a></li>
+              </ul>
+            </div></div>
+      
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </body>
@@ -151,7 +152,8 @@ NARESH.R
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2024-03-24 125930.png>)
+![Screenshot 2024-03-27 090641](https://github.com/feryjfgkuyfgewjfgew/simplewebserver/assets/150319377/cccc2d47-d964-4a8a-8c5d-d2fd7788ef42)
+
 
 
 ## RESULT:
